@@ -1,0 +1,6 @@
+{
+  "name": "FutureAI World",
+  "description": "Futuristic interactive AI and IT career learning world for college students and beginners with mission quests, bilingual AI Tutor, and career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
